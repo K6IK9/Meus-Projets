@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../ed-js"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EstruturaDeDados-JS"
+	}
+}
